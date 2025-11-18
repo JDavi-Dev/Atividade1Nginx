@@ -7,7 +7,7 @@ Este tutorial explica como configurar o Apache Bench (ab) e executar um teste de
 
 - **Apache Bench (ab)**: O Apache Bench é uma ferramenta de linha de comando para realizar testes de carga HTTP. Ele vem junto com o Apache HTTP Server, mas pode ser instalada separadamente.
 - **Node.js e React**: A aplicação deve já estar configurada e em execução.
-- **Docker**: Necessário para construir e rodar a aplicação em um ambiente Nginx isolado, conforme detalhado no [Passo 2](https://github.com/JDavi-Dev/Atividade1Nginx/edit/main/README_AB.md#passo-2-subir-a-aplica%C3%A7%C3%A3o-react-com-docker-e-nginx).
+- **Docker**: Necessário para construir e rodar a aplicação em um ambiente Nginx isolado, conforme detalhado no [Passo 2](https://github.com/JDavi-Dev/Atividade1Nginx/blob/main/README_AB.md#-passo-2-subir-a-aplica%C3%A7%C3%A3o-react-com-docker-e-nginx-).
 - **Git**: Necessário para clonar o repositório da aplicação.
 
 ## ⬇️ Passo 1: Instalar o Apache Bench
